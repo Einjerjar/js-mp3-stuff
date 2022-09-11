@@ -1,0 +1,22 @@
+{
+  "include": ["src/**/*"],
+  "exclude": ["node_modules/**"],
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "node",
+    "importsNotUsedAsValues": "error",
+    "strict": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "preserveValueImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "paths": {
+      "@s/*": ["src/*"],
+      "@r/*": ["src/routes/*"],
+    },
+  },
+}
