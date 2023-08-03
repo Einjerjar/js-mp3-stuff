@@ -19,7 +19,7 @@
     "globby": "^13.1.2",
     "localtunnel": "^2.0.2",
     "loglevel": "^1.8.0",
-    "protobufjs": "^7.1.0",
+    "protobufjs": "^7.2.4",
     "sleep-promise": "^9.1.0",
     "throttle": "^1.0.3"
   },
