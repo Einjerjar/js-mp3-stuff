@@ -15,7 +15,7 @@
     "@dropb/ffprobe": "^2.0.1",
     "@types/throttle": "^1.0.1",
     "dotenv": "^16.0.2",
-    "express": "^4.18.1",
+    "express": "^4.19.2",
     "globby": "^13.1.2",
     "localtunnel": "^2.0.2",
     "loglevel": "^1.8.0",
